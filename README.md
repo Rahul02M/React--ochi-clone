@@ -17,3 +17,11 @@
         - Content
         - Functionality
           
+3 . Screenshots
+
+   - Desktop screen
+     ![Screenshot 2024-02-13 144006](https://github.com/Rahul02M/React--ochi-clone/assets/133855195/76d3292b-0dd0-44b3-8d7a-4e52451faa16)
+     <br>
+     ![Screenshot 2024-02-13 144432](https://github.com/Rahul02M/React--ochi-clone/assets/133855195/ad179e21-d5aa-4237-ae1e-1454e6580690)
+     <br>
+     ![Screenshot 2024-02-13 144053](https://github.com/Rahul02M/React--ochi-clone/assets/133855195/b68b32ca-504f-4f5a-b4d1-40db1a9e0c25)
